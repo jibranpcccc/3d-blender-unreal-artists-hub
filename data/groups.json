@@ -1,16 +1,16 @@
 [
   {
     "id": "blender-3d-unreal-engine-5-guild-reddit-1",
-    "title": "r/gamedev Developers Network",
+    "title": "r/blender 3D Modeling & Animation",
     "platform": "Reddit",
-    "category": "Game Development",
-    "memberCount": "1,400,000+ members",
-    "description": "The premier community for game designers, indie developers, gameplay programmers, and procedural artists.",
-    "joinUrl": "https://www.reddit.com/r/gamedev/",
+    "category": "Blender",
+    "memberCount": "1,200,000+ members",
+    "description": "The central community for Blender 3D modeling, geometry nodes, sculpting, rigging, and Cycles rendering.",
+    "joinUrl": "https://www.reddit.com/r/blender/",
     "tags": [
-      "gamedev",
-      "indiedev",
-      "design",
+      "blender",
+      "3d",
+      "geometry-nodes",
       "reddit"
     ],
     "verified": true,
@@ -18,16 +18,16 @@
   },
   {
     "id": "blender-3d-unreal-engine-5-guild-reddit-2",
-    "title": "r/blender 3D Modeling Community",
+    "title": "r/unrealengine Unreal Engine 5 & Nanite",
     "platform": "Reddit",
-    "category": "3D & VFX",
-    "memberCount": "1,200,000+ members",
-    "description": "Showcases, geometry nodes breakdowns, shader networks, and animation renders created with Blender 3D.",
-    "joinUrl": "https://www.reddit.com/r/blender/",
+    "category": "Unreal Engine",
+    "memberCount": "320,000+ members",
+    "description": "Unreal Engine 5 development: Lumen real-time global illumination, Nanite virtualized geometry, and Blueprints.",
+    "joinUrl": "https://www.reddit.com/r/unrealengine/",
     "tags": [
-      "blender",
-      "3d",
-      "vfx",
+      "unrealengine",
+      "ue5",
+      "nanite",
       "reddit"
     ],
     "verified": true,
@@ -35,16 +35,16 @@
   },
   {
     "id": "blender-3d-unreal-engine-5-guild-reddit-3",
-    "title": "r/unity3d Engine Developers",
+    "title": "r/3Dmodeling Hard Surface & Sculpting",
     "platform": "Reddit",
-    "category": "Game Engines",
-    "memberCount": "410,000+ members",
-    "description": "Discussions on Unity engine shaders, C# scripting, physics optimization, URP/HDRP graphics, and multiplatform builds.",
-    "joinUrl": "https://www.reddit.com/r/unity3d/",
+    "category": "3D Modeling",
+    "memberCount": "280,000+ members",
+    "description": "Showcases and feedback on hard surface topology, sub-d workflows, ZBrush sculpting, and baking maps.",
+    "joinUrl": "https://www.reddit.com/r/3Dmodeling/",
     "tags": [
-      "unity",
-      "csharp",
-      "gamedev",
+      "3dmodeling",
+      "topology",
+      "sculpting",
       "reddit"
     ],
     "verified": true,
@@ -52,187 +52,184 @@
   },
   {
     "id": "blender-3d-unreal-engine-5-guild-reddit-4",
-    "title": "r/unrealengine Creators",
+    "title": "r/vfx CGI & Cinematic Compositing",
     "platform": "Reddit",
-    "category": "Game Engines",
-    "memberCount": "320,000+ members",
-    "description": "Unreal Engine 5 enthusiasts discussing Nanite, Lumen, Blueprints, C++ architecture, and MetaHumans.",
-    "joinUrl": "https://www.reddit.com/r/unrealengine/",
+    "category": "VFX",
+    "memberCount": "180,000+ members",
+    "description": "Professional visual effects artists discussing CGI pipelines, photorealistic integration, and color grading.",
+    "joinUrl": "https://www.reddit.com/r/vfx/",
     "tags": [
-      "unreal",
-      "ue5",
-      "graphics",
+      "vfx",
+      "cgi",
+      "compositing",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "blender-3d-unreal-engine-5-guild-discord-5",
-    "title": "Game Dev League Discord",
-    "platform": "Discord",
-    "category": "Game Development",
-    "memberCount": "82,000+ members",
-    "description": "A massive community of game developers, artists, sound engineers, and game jam participants on Discord.",
-    "joinUrl": "https://discord.gg/gamedev",
+    "id": "blender-3d-unreal-engine-5-guild-reddit-5",
+    "title": "r/gamedev Technical Art & Shaders",
+    "platform": "Reddit",
+    "category": "Game Dev",
+    "memberCount": "1,450,000+ members",
+    "description": "3D game development, shader programming (HLSL/GLSL), PBR material creation, and optimization.",
+    "joinUrl": "https://www.reddit.com/r/gamedev/",
     "tags": [
       "gamedev",
-      "discord",
-      "indiedev",
-      "art"
+      "shaders",
+      "pbr",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "blender-3d-unreal-engine-5-guild-discord-6",
+    "id": "blender-3d-unreal-engine-5-guild-reddit-6",
+    "title": "r/unity3d Real-Time Graphics Pipeline",
+    "platform": "Reddit",
+    "category": "Unity",
+    "memberCount": "520,000+ members",
+    "description": "Unity Universal Render Pipeline (URP), High Definition Render Pipeline (HDRP), and Shader Graph.",
+    "joinUrl": "https://www.reddit.com/r/unity3d/",
+    "tags": [
+      "unity3d",
+      "urp",
+      "hdrp",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "blender-3d-unreal-engine-5-guild-reddit-7",
+    "title": "r/Houdini Procedural Generation & FX",
+    "platform": "Reddit",
+    "category": "Houdini",
+    "memberCount": "55,000+ members",
+    "description": "SideFX Houdini procedural node setups, VEX scripting, particle simulations, pyro, and fluid dynamics.",
+    "joinUrl": "https://www.reddit.com/r/Houdini/",
+    "tags": [
+      "houdini",
+      "procedural",
+      "simulations",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "blender-3d-unreal-engine-5-guild-discord-8",
     "title": "Blender Official Community Discord",
     "platform": "Discord",
-    "category": "3D & Animation",
-    "memberCount": "140,000+ members",
-    "description": "Real-time support and feedback channels for 3D modeling, sculpting, rigging, texturing, and rendering in Blender.",
+    "category": "Blender Discord",
+    "memberCount": "180,000+ members",
+    "description": "Active real-time help with Blender modeling, Python addon creation, material nodes, and rendering.",
     "joinUrl": "https://discord.gg/blender",
     "tags": [
       "blender",
       "discord",
-      "3d",
-      "modeling"
+      "modeling",
+      "nodes"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "blender-3d-unreal-engine-5-guild-telegram-7",
-    "title": "Indie Game Developers Channel",
-    "platform": "Telegram",
-    "category": "Indie Games",
-    "memberCount": "41,000+ members",
-    "description": "Showcases of work-in-progress indie games, marketing playbooks, and Steam launch benchmarks.",
-    "joinUrl": "https://t.me/gamedev_channel",
+    "id": "blender-3d-unreal-engine-5-guild-discord-9",
+    "title": "Game Dev League 3D Discord",
+    "platform": "Discord",
+    "category": "Game Dev Discord",
+    "memberCount": "115,000+ members",
+    "description": "Server for 3D environment artists, animators, level designers, and technical directors.",
+    "joinUrl": "https://discord.gg/gamedev",
     "tags": [
       "gamedev",
-      "telegram",
-      "indie",
-      "steam"
+      "technical-art",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "blender-3d-unreal-engine-5-guild-forum-8",
+    "id": "blender-3d-unreal-engine-5-guild-forum-10",
     "title": "Blender Artists Community Forum",
     "platform": "Forum",
-    "category": "3D & VFX",
-    "memberCount": "400,000+ members",
-    "description": "The central hub for Blender artwork critique, tutorial sharing, addon releases, and production pipelines.",
+    "category": "Blender Forum",
+    "memberCount": "210,000+ members",
+    "description": "The premier community forum for 3D digital art, animation showcases, render techniques, and critiques.",
     "joinUrl": "https://blenderartists.org",
     "tags": [
-      "blender",
-      "forum",
-      "art",
-      "critique"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "blender-3d-unreal-engine-5-guild-reddit-9",
-    "title": "r/Python Developer Community",
-    "platform": "Reddit",
-    "category": "Python Development",
-    "memberCount": "1,250,000+ members",
-    "description": "The premier community for Python engineers, covering news, PEP proposals, open-source packages, and architecture discussions.",
-    "joinUrl": "https://www.reddit.com/r/Python/",
-    "tags": [
-      "python",
-      "backend",
-      "software-engineering",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "blender-3d-unreal-engine-5-guild-discord-10",
-    "title": "Python Official Discord",
-    "platform": "Discord",
-    "category": "Python Development",
-    "memberCount": "430,000+ members",
-    "description": "Active real-time developer server for Python help, code reviews, algorithmic design, and package development.",
-    "joinUrl": "https://discord.gg/python",
-    "tags": [
-      "python",
-      "discord",
-      "code-review",
-      "programming"
+      "blenderartists",
+      "showcase",
+      "forum"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "blender-3d-unreal-engine-5-guild-telegram-11",
-    "title": "Python Developers Telegram Channel",
+    "title": "Indie Game Developers Channel",
     "platform": "Telegram",
-    "category": "Python Development",
-    "memberCount": "85,000+ members",
-    "description": "Curated daily Python scripts, architectural patterns, release alerts, and performance optimization guides.",
-    "joinUrl": "https://t.me/python_scripts",
+    "category": "Telegram",
+    "memberCount": "32,000+ members",
+    "description": "Curated 3D asset bundles, indie game progress videos, and game engine release announcements.",
+    "joinUrl": "https://t.me/gamedev_channel",
     "tags": [
-      "python",
       "telegram",
-      "scripts",
-      "tips"
+      "assets",
+      "indiedev"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "blender-3d-unreal-engine-5-guild-reddit-12",
-    "title": "r/programming International",
+    "title": "r/cpp High-Performance Graphics Engines",
     "platform": "Reddit",
-    "category": "General Programming",
-    "memberCount": "5,800,000+ members",
-    "description": "Major international hub for computer programming discussions, industry insights, and software development trends.",
-    "joinUrl": "https://www.reddit.com/r/programming/",
+    "category": "C++",
+    "memberCount": "310,000+ members",
+    "description": "Graphics programming with DirectX 12, Vulkan, custom engine architecture, and SIMD optimizations.",
+    "joinUrl": "https://www.reddit.com/r/cpp/",
     "tags": [
-      "programming",
-      "engineering",
-      "industry",
+      "cpp",
+      "vulkan",
+      "directx",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "blender-3d-unreal-engine-5-guild-discord-13",
-    "title": "The Programmer's Hangout",
-    "platform": "Discord",
-    "category": "Software Engineering",
-    "memberCount": "220,000+ members",
-    "description": "A collaborative multi-language developer Discord covering architecture, algorithms, career advice, and live coding.",
-    "joinUrl": "https://discord.gg/theprogrammershangout",
-    "tags": [
-      "programming",
-      "multi-language",
-      "discord",
-      "career"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "blender-3d-unreal-engine-5-guild-reddit-14",
-    "title": "r/rust Systems Programming",
+    "id": "blender-3d-unreal-engine-5-guild-reddit-13",
+    "title": "r/rust Game & Renderer Development",
     "platform": "Reddit",
-    "category": "Systems Programming",
+    "category": "Rust",
     "memberCount": "280,000+ members",
-    "description": "Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.",
+    "description": "Building graphics renderers and game engines in Rust with WGPU, Bevy, and Vulkan bindings.",
     "joinUrl": "https://www.reddit.com/r/rust/",
     "tags": [
       "rust",
-      "systems",
-      "concurrency",
+      "bevy",
+      "wgpu",
       "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "blender-3d-unreal-engine-5-guild-telegram-14",
+    "title": "Rust Graphics & Systems News Telegram",
+    "platform": "Telegram",
+    "category": "Rust News",
+    "memberCount": "32,000+ members",
+    "description": "Updates on Rust graphics engines, 3D math libraries, and real-time raytracing crates.",
+    "joinUrl": "https://t.me/rust_lang_news",
+    "tags": [
+      "telegram",
+      "rust",
+      "graphics",
+      "news"
     ],
     "verified": true,
     "featured": false
@@ -241,270 +238,267 @@
     "id": "blender-3d-unreal-engine-5-guild-discord-15",
     "title": "Rust Programming Language Discord",
     "platform": "Discord",
-    "category": "Systems Programming",
+    "category": "Rust Discord",
     "memberCount": "95,000+ members",
-    "description": "Official community Discord server for the Rust programming language with dedicated channels for crates, async, and compiler work.",
+    "description": "Dedicated channels for graphics, gamedev, math libraries, and high-performance computing.",
     "joinUrl": "https://discord.gg/rust-lang",
     "tags": [
       "rust",
-      "systems",
-      "discord",
-      "compiler"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "blender-3d-unreal-engine-5-guild-telegram-16",
-    "title": "Rust Language News & Updates",
-    "platform": "Telegram",
-    "category": "Systems Programming",
-    "memberCount": "32,000+ members",
-    "description": "Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.",
-    "joinUrl": "https://t.me/rust_lang_news",
-    "tags": [
-      "rust",
-      "telegram",
-      "systems",
-      "updates"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "blender-3d-unreal-engine-5-guild-reddit-17",
-    "title": "r/javascript Global Hub",
-    "platform": "Reddit",
-    "category": "Web Development",
-    "memberCount": "2,400,000+ members",
-    "description": "Discussions, releases, frameworks, and architecture patterns from across the JavaScript and ECMAScript ecosystem.",
-    "joinUrl": "https://www.reddit.com/r/javascript/",
-    "tags": [
-      "javascript",
-      "webdev",
-      "frontend",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "blender-3d-unreal-engine-5-guild-discord-18",
-    "title": "Reactiflux Discord Community",
-    "platform": "Discord",
-    "category": "Frontend Engineering",
-    "memberCount": "210,000+ members",
-    "description": "The largest community of React, React Native, and full-stack JavaScript developers on Discord.",
-    "joinUrl": "https://discord.gg/reactiflux",
-    "tags": [
-      "react",
-      "frontend",
-      "javascript",
+      "gamedev",
       "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "blender-3d-unreal-engine-5-guild-telegram-19",
-    "title": "Web Developers Network",
+    "id": "blender-3d-unreal-engine-5-guild-forum-16",
+    "title": "Rust Users Forum",
+    "platform": "Forum",
+    "category": "Rust Forum",
+    "memberCount": "70,000+ members",
+    "description": "Official community forum discussing systems architecture, SIMD intrinsics, and game engines.",
+    "joinUrl": "https://users.rust-lang.org",
+    "tags": [
+      "rust",
+      "engine",
+      "official",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "blender-3d-unreal-engine-5-guild-discord-17",
+    "title": "The Programmer's Hangout Discord",
+    "platform": "Discord",
+    "category": "Programming",
+    "memberCount": "220,000+ members",
+    "description": "Collaborative server with dedicated game development, linear algebra, and 3D graphics channels.",
+    "joinUrl": "https://discord.gg/programming",
+    "tags": [
+      "programming",
+      "graphics",
+      "math",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "blender-3d-unreal-engine-5-guild-reddit-18",
+    "title": "r/Python Blender Addon Scripting",
+    "platform": "Reddit",
+    "category": "Python",
+    "memberCount": "1,250,000+ members",
+    "description": "Writing custom Blender addons using bpy, procedural mesh generators, and batch rendering scripts.",
+    "joinUrl": "https://www.reddit.com/r/Python/",
+    "tags": [
+      "python",
+      "bpy",
+      "addons",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "blender-3d-unreal-engine-5-guild-discord-19",
+    "title": "Python Developers Official Discord",
+    "platform": "Discord",
+    "category": "Python Discord",
+    "memberCount": "430,000+ members",
+    "description": "Python community server with support for automation scripts, math libraries, and data formats.",
+    "joinUrl": "https://discord.gg/python",
+    "tags": [
+      "python",
+      "automation",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "blender-3d-unreal-engine-5-guild-telegram-20",
+    "title": "Python Scripts & Automation Telegram",
     "platform": "Telegram",
-    "category": "Web Development",
-    "memberCount": "64,000+ members",
-    "description": "Public channel providing updates on frontend, backend, browser standards, and dev tooling.",
+    "category": "Scripts",
+    "memberCount": "85,000+ members",
+    "description": "Daily Python scripts for 3D file conversion (OBJ/FBX/glTF), asset renaming, and pipeline automation.",
+    "joinUrl": "https://t.me/python_scripts",
+    "tags": [
+      "telegram",
+      "python",
+      "assets",
+      "scripts"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "blender-3d-unreal-engine-5-guild-reddit-21",
+    "title": "r/webdev WebGL & Three.js Graphics",
+    "platform": "Reddit",
+    "category": "WebGL",
+    "memberCount": "2,200,000+ members",
+    "description": "Interactive 3D web experiences, Three.js scenes, WebGPU shaders, and glTF model loading.",
+    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "tags": [
+      "webdev",
+      "webgl",
+      "threejs",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "blender-3d-unreal-engine-5-guild-discord-22",
+    "title": "Devcord WebGL & Creative Dev Discord",
+    "platform": "Discord",
+    "category": "Creative Dev",
+    "memberCount": "75,000+ members",
+    "description": "Creative developers building browser-based 3D animations, canvas shaders, and interactive models.",
+    "joinUrl": "https://discord.gg/devcord",
+    "tags": [
+      "devcord",
+      "webgl",
+      "creative",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "blender-3d-unreal-engine-5-guild-telegram-23",
+    "title": "Web Developers Network Telegram",
+    "platform": "Telegram",
+    "category": "Web Dev",
+    "memberCount": "48,000+ members",
+    "description": "Daily articles on modern WebGPU standards, browser performance, and asset compression.",
     "joinUrl": "https://t.me/webdev_hub",
     "tags": [
-      "webdev",
-      "frontend",
       "telegram",
-      "tooling"
+      "webgpu",
+      "assets"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "blender-3d-unreal-engine-5-guild-reddit-20",
-    "title": "r/golang Backend Hub",
-    "platform": "Reddit",
-    "category": "Backend Engineering",
-    "memberCount": "250,000+ members",
-    "description": "Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.",
-    "joinUrl": "https://www.reddit.com/r/golang/",
-    "tags": [
-      "golang",
-      "backend",
-      "concurrency",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "blender-3d-unreal-engine-5-guild-discord-21",
-    "title": "Go Language Official Discord",
+    "id": "blender-3d-unreal-engine-5-guild-discord-24",
+    "title": "Tech Community Discord",
     "platform": "Discord",
-    "category": "Backend Engineering",
-    "memberCount": "65,000+ members",
-    "description": "Real-time Go developers server offering technical support, library showcase, and distributed systems discussions.",
-    "joinUrl": "https://discord.gg/golang",
-    "tags": [
-      "golang",
-      "discord",
-      "backend",
-      "microservices"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "blender-3d-unreal-engine-5-guild-reddit-22",
-    "title": "r/typescript Architecture",
-    "platform": "Reddit",
-    "category": "Web Development",
-    "memberCount": "190,000+ members",
-    "description": "Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.",
-    "joinUrl": "https://www.reddit.com/r/typescript/",
-    "tags": [
-      "typescript",
-      "javascript",
-      "webdev",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "blender-3d-unreal-engine-5-guild-discord-23",
-    "title": "TypeScript Community Discord",
-    "platform": "Discord",
-    "category": "Web Development",
+    "category": "Tech",
     "memberCount": "55,000+ members",
-    "description": "Active community for advanced TypeScript types, generics, compiler plugins, and framework integrations.",
-    "joinUrl": "https://discord.gg/typescript",
+    "description": "Discussions on workstation GPUs, VR headsets, color-calibrated monitors, and render farms.",
+    "joinUrl": "https://discord.gg/tech",
     "tags": [
-      "typescript",
-      "discord",
-      "frontend",
-      "types"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "blender-3d-unreal-engine-5-guild-reddit-24",
-    "title": "r/cpp High Performance Systems",
-    "platform": "Reddit",
-    "category": "Systems Programming",
-    "memberCount": "310,000+ members",
-    "description": "Discussions on modern C++ (C++17/20/23), memory models, template metaprogramming, and graphics pipelines.",
-    "joinUrl": "https://www.reddit.com/r/cpp/",
-    "tags": [
-      "cpp",
-      "systems",
-      "performance",
-      "reddit"
+      "tech",
+      "gpu",
+      "renderfarm",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "blender-3d-unreal-engine-5-guild-reddit-25",
-    "title": "r/webdev Builders Hub",
+    "title": "r/programming Rendering Architecture",
     "platform": "Reddit",
-    "category": "Web Development",
-    "memberCount": "2,200,000+ members",
-    "description": "A community dedicated to all things web development, client and server-side architectures, and UI/UX design.",
-    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "category": "Programming",
+    "memberCount": "5,800,000+ members",
+    "description": "Technical discussions on spatial acceleration structures (BVH), ray tracing hardware, and algorithms.",
+    "joinUrl": "https://www.reddit.com/r/programming/",
     "tags": [
-      "webdev",
-      "fullstack",
-      "frontend",
+      "programming",
+      "raytracing",
+      "bvh",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "blender-3d-unreal-engine-5-guild-discord-26",
-    "title": "Devcord Web Developers",
-    "platform": "Discord",
-    "category": "Web Development",
-    "memberCount": "48,000+ members",
-    "description": "Friendly web development and programming community covering modern web stacks, design, and career growth.",
-    "joinUrl": "https://discord.gg/devcord",
+    "id": "blender-3d-unreal-engine-5-guild-forum-26",
+    "title": "Hacker News Graphics & Engines Forum",
+    "platform": "Forum",
+    "category": "Hacker News",
+    "memberCount": "5,000,000+ members",
+    "description": "Deep-dive technical discussions on computer graphics history, novel shader papers, and engines.",
+    "joinUrl": "https://news.ycombinator.com",
     "tags": [
-      "webdev",
-      "discord",
-      "fullstack",
-      "design"
+      "ycombinator",
+      "graphics",
+      "papers",
+      "forum"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "blender-3d-unreal-engine-5-guild-discord-27",
-    "title": "Next.js Developers Discord",
+    "title": "Midjourney Visual Art & Concepting Discord",
     "platform": "Discord",
-    "category": "Frontend Engineering",
-    "memberCount": "120,000+ members",
-    "description": "Official community Discord for Vercel Next.js developers, Server Components, and App Router architectures.",
-    "joinUrl": "https://discord.gg/nextjs",
+    "category": "Concept Art",
+    "memberCount": "2,000,000+ members",
+    "description": "Generating reference mood boards, character silhouettes, and environmental concept art.",
+    "joinUrl": "https://discord.gg/midjourney",
     "tags": [
-      "nextjs",
-      "react",
-      "frontend",
+      "midjourney",
+      "concept-art",
+      "reference",
       "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "blender-3d-unreal-engine-5-guild-discord-28",
-    "title": "Vue Land Community Discord",
-    "platform": "Discord",
-    "category": "Frontend Engineering",
-    "memberCount": "85,000+ members",
-    "description": "The official Discord community for Vue.js, Nuxt, Vite, Pinia, and frontend ecosystem tools.",
-    "joinUrl": "https://discord.gg/vue",
+    "id": "blender-3d-unreal-engine-5-guild-reddit-28",
+    "title": "r/Midjourney Concept Art & 3D Lighting",
+    "platform": "Reddit",
+    "category": "Concept Art",
+    "memberCount": "1,300,000+ members",
+    "description": "Sharing generative concept art prompts, volumetric lighting studies, and character turnarounds.",
+    "joinUrl": "https://www.reddit.com/r/Midjourney/",
     "tags": [
-      "vue",
-      "nuxt",
-      "frontend",
-      "discord"
+      "midjourney",
+      "lighting",
+      "concept",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "blender-3d-unreal-engine-5-guild-discord-29",
-    "title": "Tailwind CSS Discord",
-    "platform": "Discord",
-    "category": "Frontend Engineering",
-    "memberCount": "72,000+ members",
-    "description": "Official community for Tailwind CSS utility-first design, component architectures, and responsive layout styling.",
-    "joinUrl": "https://discord.gg/tailwind",
+    "id": "blender-3d-unreal-engine-5-guild-reddit-29",
+    "title": "r/StableDiffusion Texture Generation",
+    "platform": "Reddit",
+    "category": "Textures",
+    "memberCount": "580,000+ members",
+    "description": "Seamless PBR texture generation, normal map extraction, and generative material synthesis.",
+    "joinUrl": "https://www.reddit.com/r/StableDiffusion/",
     "tags": [
-      "tailwind",
-      "css",
-      "frontend",
-      "discord"
+      "stablediffusion",
+      "pbr",
+      "textures",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "blender-3d-unreal-engine-5-guild-github-30",
-    "title": "Rust Language GitHub Discussions",
-    "platform": "GitHub",
-    "category": "Systems Programming",
-    "memberCount": "100,000+ contributors",
-    "description": "Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.",
-    "joinUrl": "https://github.com/rust-lang/rust/discussions",
+    "id": "blender-3d-unreal-engine-5-guild-telegram-30",
+    "title": "TechCrunch Digital Arts & 3D Coverage",
+    "platform": "Telegram",
+    "category": "Industry News",
+    "memberCount": "65,000+ members",
+    "description": "Announcements from major graphics hardware vendors, game engine acquisitions, and 3D software.",
+    "joinUrl": "https://t.me/techcrunch",
     "tags": [
-      "rust",
-      "github",
-      "systems",
-      "rfc"
+      "telegram",
+      "graphics",
+      "3d",
+      "news"
     ],
     "verified": true,
     "featured": false
